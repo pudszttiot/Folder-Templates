@@ -129,7 +129,3 @@ For any inquiries or support, you can contact [pudszttiot9@proton.me](mailto:pud
 [Back to top](#top)
 
 <br>
-
-[Back to top](#top)
-
-[:arrow_up:](#top)
