@@ -77,6 +77,7 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 ## Contact
 
 For any inquiries or support, you can contact [pudszttiot9@proton.me](mailto:pudszttiot9@proton.me)
+
 <br>
 
 <span>
