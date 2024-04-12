@@ -70,6 +70,13 @@
 
 [List the key features of your project. This section should highlight what sets your project apart and why users would want to use it.]
 
+<br>
+
+<ins>[**ENTER FEATURE HERE**:]</ins>
+   - [Description of feature]
+   - [Description of feature]
+   - [Description of feature]
+
 ## Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or create a pull request on [GitHub](https://github.com/pudszttiot/Folder-Templates).
