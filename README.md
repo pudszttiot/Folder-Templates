@@ -113,4 +113,23 @@ For any inquiries or support, you can contact [pudszttiot9@proton.me](mailto:pud
 <span>
         <img src="https://raw.githubusercontent.com/pudszttiot/SpotiScrape-Online/main/Images/Socials/Playstation.png" alt="PlayStation.png" width="50" height="50" border="2">
         <a href="https://psnprofiles.com/snippapudsz" style="display:inline-block; text-decoration:none; color:#ff5722;" onclick="openLink('https://psnprofiles.com/snippapudsz')">PlayStation</a>
-        </span>
+                </span>
+
+<br>
+<br>
+
+---
+
+<br>
+
+<h5 align="center">
+
+[<img width="100" height="100" src="https://raw.githubusercontent.com/pudszttiot/Folder-Templates/main/Images/back-to-top.png">](#top)
+
+[Back to top](#top)
+
+<br>
+
+[Back to top](#top)
+
+[:arrow_up:](#top)
