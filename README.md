@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="660" height="500" src="https://raw.githubusercontent.com/pudszttiot/Folder-Templates/main/githubreadmetemplate1.png">
+  <img width="660" height="500" src="https://raw.githubusercontent.com/pudszttiot/Folder-Templates/main/Images/githubreadmetemplate1.png">
 </p>
 
 <h2 align="center">
