@@ -1,3 +1,5 @@
+  <a name="top"></a>
+
 <p align="center">
   <img width="660" height="500" src="https://raw.githubusercontent.com/pudszttiot/Folder-Templates/main/Images/githubreadmetemplate1.png">
 </p>
@@ -10,6 +12,16 @@
 
 ---
 
+## Table of Contents
+
+- [Description](#description)
+- [Screenshots](#screenshots)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Features](#features)
+- [Contributing](#contributing)
+- [Contact](#contact)
+
 ## Description
 
 [Provide a brief overview of what your project is about. Include its purpose, main features, and any relevant information.]
@@ -21,14 +33,6 @@
   &nbsp;
 <img width="400" height="380" src="https://raw.githubusercontent.com/pudszttiot/Folder-Templates/main/Images/how-to-take-Screenshot-trans.png" alt="Screenshot-GIF-2" border="0">
   </p>
-
-## Table of Contents
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Features](#features)
-- [Contributing](#contributing)
-- [Contact](#contact)
 
 ## Installation
 
@@ -113,7 +117,7 @@ For any inquiries or support, you can contact [pudszttiot9@proton.me](mailto:pud
 <span>
         <img src="https://raw.githubusercontent.com/pudszttiot/SpotiScrape-Online/main/Images/Socials/Playstation.png" alt="PlayStation.png" width="50" height="50" border="2">
         <a href="https://psnprofiles.com/snippapudsz" style="display:inline-block; text-decoration:none; color:#ff5722;" onclick="openLink('https://psnprofiles.com/snippapudsz')">PlayStation</a>
-                </span>
+        </span>
 
 <br>
 <br>
@@ -129,3 +133,4 @@ For any inquiries or support, you can contact [pudszttiot9@proton.me](mailto:pud
 [Back to top](#top)
 
 <br>
+
