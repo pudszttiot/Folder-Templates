@@ -17,9 +17,9 @@
 ## Screenshots
 
 <p align="center"> 
-<img width="400" height="380" src="https://raw.githubusercontent.com/pudszttiot/Folder-Templates/main/how-to-take-Screenshot-trans.png" alt="Screenshot-GIF-1" border="0">
+<img width="400" height="380" src="https://raw.githubusercontent.com/pudszttiot/Folder-Templates/main/Images/how-to-take-Screenshot-trans.png" alt="Screenshot-GIF-1" border="0">
   &nbsp;
-<img width="400" height="380" src="https://raw.githubusercontent.com/pudszttiot/Folder-Templates/main/how-to-take-Screenshot-trans.png" alt="Screenshot-GIF-2" border="0">
+<img width="400" height="380" src="https://raw.githubusercontent.com/pudszttiot/Folder-Templates/main/Images/how-to-take-Screenshot-trans.png" alt="Screenshot-GIF-2" border="0">
   </p>
 
 ## Table of Contents
